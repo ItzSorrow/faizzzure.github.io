@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Audehhhh</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo web.jpeg" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <h1 class="logo"><a href="index.html">Audehhhh</a></h1>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#services">Skills</a></li>
+          <li><a class="nav-link scrollto " href="#work">Portfolio</a></li>
+          <!-- Uncomment below if you prefer drop down section in your navigation -->
+          <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li> -->
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= BG Pic Section ======= -->
+  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/bg-first.jpg)">
+    <div class="overlay-itro"></div>
+    <div class="hero-content display-table">
+      <div class="table-cell">
+        <div class="container">
+          <!--<p class="display-6 color-d">Hello, world!</p>-->
+          <h1 class="hero-title mb-4">Hello I'am Ridwan.</h1>
+          <p class="hero-subtitle"><span class="typed"
+              data-typed-items="Respect the Manners, Fresh Graduate, Self Love"></span></p>
+          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+        </div>
+      </div>
+    </div>
+  </div><!-- End BG Pic Section -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="box-shadow-full">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="row">
+                    <div class="col-sm-6 col-md-5">
+                      <div class="about-img">
+                        <img src="assets/img/potoprofile.png" class="img-fluid rounded b-shadow-a" alt="">
+                      </div>
+                    </div>
+                    <div class="col-sm-6 col-md-7">
+                      <div class="about-info">
+                        <p><span class="title-s">Full Name: </span> <span>Muhamad Ridwan&nbsp;</span></p>
+                        <p><span class="title-s">Aged: </span> <span>17</span>
+                        </p>
+                        <p><span class="title-s">Address: </span> <span></span>Secret</p>
+                        <p><span class="title-s">Work At:</span> <span>PT. Yaaaop</span></p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="skill-mf">
+                    <p class="title-s">Skill</p>
+                    <span>MICROSOFT OFFICE</span> <span class="pull-right">95%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>UNDERSTANDING THE CONVERSION</span> <span class="pull-right">80%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>TALKING WITH CRUSH</span> <span class="pull-right">0,5%</span>
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" style="width: 0,5%" aria-valuenow="0,5"
+                        aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                    <span>LEARNING SUBNETTING, MIKROTIK & DEBIAN SERVER</span> <span class="pull-right">-100%</span>
+                    <div class="progress">
+                      <div class="progress-bari" role="progressbar" style="width: 110%" aria-valuenow="0"
+                        aria-valuemin="75" aria-valuemax="100"></div>
+                    </div>
+
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="about-me pt-4 pt-md-0">
+                    <div class="title-box-2">
+                      <h5 class="title-left">
+                        About me
+                      </h5>
+                    </div>
+                    <p class="lead">
+                      Hello, my name is Muhammad Ridwan, you can call me Iwan. I Just graduated from high school this
+                      year, I have more than two years of writing experience. I am a hard worker and willing to learn
+                      anything.
+                    </p>
+                    <p class="lead">
+                      I have advantages in terms of logical intelligence and i can remember things well, of course this
+                      is very useful in a work environment I am applying for. My weakness is that I can't control my
+                      sleep schedule, and this shortcoming doesn't interfere with office work hours, this shortcoming of
+                      mine can be anticipated by using that time to learn something new.
+                    </p>
+                    <p class="lead">
+                      Hopefully the explanation above can explain my strengths and weaknesses clearly and concisely.
+                      Thank you in advance for your attention.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services-mf pt-5 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a">
+                Soft Skills
+              </h3>
+              <p class="subtitle-a">
+                why me ?
+              </p>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="bi bi-briefcase"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Working Hard</h2>
+                <p class="s-description text-center">
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="bi bi-card-checklist"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Objectively</h2>
+                <p class="s-description text-center">
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">CREATIVITY&nbsp;</h2>
+                <p class="s-description text-center">
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="bi bi-clock"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">Always ready</h2>
+                <p class="s-description text-center">
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="bi bi-award"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">professional</h2>
+                <p class="s-description text-center">
+
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-box">
+              <div class="service-ico">
+                <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
+              </div>
+              <div class="service-content">
+                <h2 class="s-title">on time</h2>
+                <p class="s-description text-center">
+
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Counter Section ======= -->
+    <div class="section-counter paralax-mf bg-image" style="background-image: url(assets/img/counters-bg.jpg)">
+      <div class="overlay-mf"></div>
+      <div class="container position-relative">
+        <div class="row">
+          <div class="col-sm-4 col-lg-4">
+            <div class="counter-box counter-box pt-4 pt-md-0">
+              <div class="counter-ico">
+                <span class="ico-circle"><i class="bi bi-check"></i></span>
+              </div>
+              <div class="counter-num">
+                <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1"
+                  class="counter purecounter">25</p>
+                <span class="counter-text">WORKS COMPLETED</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4 col-lg-4">
+            <div class="counter-box pt-4 pt-md-0">
+              <div class="counter-ico">
+                <span class="ico-circle"><i class="bi bi-journal-richtext"></i></span>
+              </div>
+              <div class="counter-num">
+                <p data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1"
+                  class="counter purecounter">2&nbsp;</p>
+                <span class="counter-text">YEARS OF EXPERIENCE</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4 col-lg-4">
+            <div class="counter-box pt-4 pt-md-0">
+              <div class="counter-ico">
+                <span class="ico-circle"><i class="bi bi-people"></i></span>
+              </div>
+              <div class="counter-num">
+                <p data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1"
+                  class="counter purecounter">10</p>
+                <span class="counter-text">TOTAL CLIENTS</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- End Counter Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="work" class="portfolio-mf sect-pt4 route">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12">
+            <div class="title-box text-center">
+              <h3 class="title-a">
+                Portfolio
+              </h3>
+              <p class="subtitle-a">
+                my portfolio collection
+              </p>
+              <div class="line-mf"></div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/pa.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/pa.png" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Class Website Project</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Design</span> / <span class="w-date">25 July. 2022</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="jumbotron bg-light">
+                      <div class="w-like">
+                        <a class="btn btn-inline-primary btn-lg" href="https://tekoajaib3.github.io/"
+                          role="button">View Project</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/pi.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/pi.png" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">Application Project</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Based Excel VBA </span> / <span class="w-date">27 August. 2022</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="jumbotron bg-light">
+                      <div class="w-like">
+                        <a class="btn btn-inline-primary btn-lg" href="https://drive.google.com/file/d/1_r_dYFQ1ki6F_g4ifpwQrkwBPUAitii_/view?usp=sharing"
+                          role="button">View Project</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/work-3.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">PROJECT WORK C</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 April. 2021</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="#"> <span class="bi bi-plus-circle"></span></a> 
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/work-4.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">PROJECT WORK D</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 April. 2021</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="#"> <span class="bi bi-plus-circle"></span></a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">PROJECT WORK E</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 April. 2021</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="#"> <span class="bi bi-plus-circle"></span></a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="work-box">
+              <a href="assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+                <div class="work-img">
+                  <img src="assets/img/work-6.jpg" alt="" class="img-fluid">
+                </div>
+              </a>
+              <div class="work-content">
+                <div class="row">
+                  <div class="col-sm-8">
+                    <h2 class="w-title">PROJECT WORK F</h2>
+                    <div class="w-more">
+                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 April. 2021</span>
+                    </div>
+                  </div>
+                  <div class="col-sm-4">
+                    <div class="w-like">
+                      <a href="#"> <span class="bi bi-plus-circle"></span></a> 
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>-->
+          <!-- End Portfolio Section -->
+
+          <!--------------------------------------------------------------
+instagram : https://www.instagram.com/codebytez
+Youtube : Code Bytez
+Github : RajanSharmaa / BytezCode
+www.linktr.ee/CodeBytez
+-------------------------------------------------------------->
+
+          <!-- ======= Profile Section ======= -->
+          <div class="testimonials paralax-mf bg-image" style="background-image: url(assets/img/overlay-bg.jpg)">
+            <div class="overlay-mf"></div>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12">
+
+                  <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper">
+
+                      <div class="swiper-slide">
+                        <div class="testimonial-box">
+                          <div class="author-test">
+                            <img src="assets/img/profile-pic-2.png" alt="" class="rounded-circle b-shadow-a">
+                            <span class="author">My Self</span>
+                          </div>
+                          <div class="content-test">
+                            <p class="description lead">
+                              Don't be afraid to be lonely, be afraid if you don't have a goal
+                            </p>
+                          </div>
+                        </div>
+                      </div><!-- End Profile item -->
+
+                      <div class="swiper-slide">
+                        <div class="testimonial-box">
+                          <div class="author-test">
+                            <img src="assets/img/profile-pic.png" alt="" class="rounded-circle b-shadow-a">
+                            <span class="author">Q.S. Al-Insyirah: 5-6</span>
+                          </div>
+                          <div class="content-test">
+                            <p class="description lead">
+                              For verily after hardship there is ease, verily after hardship there is ease.
+                            </p>
+                          </div>
+                        </div>
+                      </div><!-- End Profile item -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!-- End Profile Section Section -->
+
+        <!-- ======= Footer ======= -->
+        <footer class="bg-light mt-4">
+          <div class="container">
+            <div class="row py-2">
+              <div class="col-md-12">
+                <h6>
+                  <a class="text-dark"> Contact us </a>
+                </H6>
+                <h6>
+                  <a href="https://www.facebook.com/profile.php?id=100010239438629" class="text-dark"
+                    target="_blank">Facebook |</a>
+                  <a href="https://www.instagram.com/mohridwann_" class="text-dark" target="_blank">Instagram |</a>
+                  <a href="https://twitter.com/cursedkidd" class="text-dark" target="_blank">Twitter</a>
+                </h6>
+              </div>
+            </div>
+          </div>
+        </footer>
+        <!-- End  Footer -->
+
+        <div id="preloader"></div>
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+        <!-- Vendor JS Files -->
+        <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+        <script src="assets/vendor/php-email-form/validate.js"></script>
+        <script src="assets/vendor/purecounter/purecounter.js"></script>
+        <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+        <script src="assets/vendor/typed.js/typed.min.js"></script>
+
+        <!-- Template Main JS File -->
+        <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
